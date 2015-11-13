@@ -1,0 +1,31 @@
+{
+  "name": "mongoosetest",
+  "version": "1.0.0",
+  "description": "You can put in your name, subject and message. The post is also timestamped. You can also remove posts.",
+  "main": "app.js",
+  "author": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bower": "^1.6.5",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.2.5",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Damonkala/mongoosemessageboard"
+  },
+  "bugs": {
+    "url": "https://github.com/Damonkala/mongoosemessageboard"
+  },
+  "homepage": "https://github.com/Damonkala/mongoosemessageboard"
+}
