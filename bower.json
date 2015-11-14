@@ -2,9 +2,6 @@
   "name": "t",
   "description": "",
   "main": "app.js",
-  "authors": [
-    ""
-  ],
   "license": "ISC",
   "homepage": "",
   "moduleType": [],
